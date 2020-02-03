@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+<div class="container fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="index.html">Home</a></li>
+                        <li><a href="dust.html">Interstellar Dust</a></li>
+                        <li><a href="sun.html">Sun</a></li>
+                        <li><a href="planets.html">Planets</a></li>
+                        <li><a href="workcited.html">Work Cited</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+<div class="container fluid text-center">
+    <div class="jumbotron">
+        <h1>Creation of Our Solar System</h1>
+    </div>
+</div>
+<div class="container fluid">
+    <div class="col-sm-12">
+        <p class="index_p1">
+            Currently, there are three main explanations for the formation of the solar system. The Accretion model, The Disk Instability model, 
+        and the Pebble Accretion model. The Accretion model argues that the solar nebula collapsed on itself because of a shockwave from a 
+        supernova. Gravity began to make to make the material spin and form a disk. It also argues that the other matter that did not become 
+        the sun, came together in small bits and formed planetesimals (bodies that did become or could've become planets). It also credits 
+        solar wind and gravity for a lot of the organization, and make up of the planets. 
+        <br>
+            The Disk Instability model argues that dust particles were stuck together before the cloud formed a disk. It continues to say that the 
+        small dust clumps eventually formed large planets. The Disk Instability model also argues that the planets stabilized and created orbits 
+        very early, in order to not collide with the sun. This model is relatively newer, and scientists are collecting more evidence in attempt 
+        to prove it. 
+        <br>
+            The Pebble Accretion model is very similar to the Disk Instability model. It argues that small pebble clumps formed and began to stick
+        together and that in order for some planets to obtain more mass, the already bigger pebble clumps would steal from the smaller clumps. 
+        This model is also relatively new.
+        <br>
+        For the purpose of this project, I used the Accretion model to explain the formation of the solar system.
+        </p>
+    </div>
+</div>
+<div class="container fluid">
+    <div class="col-sm-4">
+        <img id="index_img_1"src="https://s-i.huffpost.com/gen/1955795/images/n-SOLAR-SYSTEM-EVOLUTION-628x314.jpg">
+            <h6>Img 1</h6>
+            <p class="index_p">Our solar system was formed by a cloud made of interstellar dust and other materials. It is believed that the dust came from the remnants of a 
+                solar system that existed before our current one.
+            </p>
+            <br>
+        <p><a href="dust.html">Click here</a> to learn more about the dust that our solar sytem comes from.</p>
+    </div>
+    <div class="col-sm-4">
+        <img id="index_img_2"src="https://spaceplace.nasa.gov/sun-compare/en/PIA03149.en.jpg">
+            <h6>Img 2</h6> 
+            <p class="index_p">The sun was created from the hydrogen atoms fusing together at the center
+                of the cloud of interstellar dust. Most of the matter in the cloud became part of the sun.
+            </p>
+            <br>
+            <br>
+        <p><a href="sun.html">Click here</a> to learn more about the sun.</p>
+    </div>
+    <div class="col-sm-4">
+        <img id="index_img_3"src="https://cdn.mos.cms.futurecdn.net/nGUneraFwt2iCnuu2iSWFf-320-80.jpg">
+            <h6>Img 3</h6>
+            <p class="index_p">The planets formed from the remaining matter in the cloud that did not get pulled into the sun.
+            The planets today, also have different atmospheres because of their position in the interstellar dust cloud.
+            </p>
+            <br>
+        <p><a href="planets.html">Click here</a> to learn more about the planets.</p>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container fluid row text-center">
+    <a href="workcited.html" class="btn btn-default btn-lg">Work Cited</a>
+</div>
+      
+    </body>
+</html>
